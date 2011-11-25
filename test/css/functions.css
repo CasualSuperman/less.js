@@ -27,6 +27,7 @@
   blend: #999999;
   blend: #ff0000;
   blend: #80ff80;
+  blend: rgba(128, 128, 128, 0.5);
 }
 #alpha {
   alpha: rgba(153, 94, 51, 0.6);
